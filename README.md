@@ -1,6 +1,6 @@
 # AQUA
 echo "# AQUA" >> README.md
-git init
+Welcome to the GITHUB for the AQUA CARDANO STAKE POOL!
 git add README.md
 git commit -m "first commit"
 git branch -M main
